@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: bisque;
+    font-size: large;
+    font-family: Roboto;
+}
+
+img {
+    border-radius: 40%;
+}
+
+.display {
+    width: 600px;
+    height: 300px;
+}
+
+table {
+    margin-left: 300px;
+    border: solid;
+}
+
+nav {
+    display: inline;
+    padding: 10px;
+}
